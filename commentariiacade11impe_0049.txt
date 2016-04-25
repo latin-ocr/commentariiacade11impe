@@ -1,0 +1,36 @@
+DE FRACTIONIBVS CONTINVis Ῐ OBSERV. μ
+
+inuentus , eiusque valor per quadraturam circuli expositus ,
+ceteri tamen casus ex eo non consequuntur. Si enim ista
+srastio continua modo initio praestripto conuertatur inseriem ‚
+ad tam intricatas peruenitur formulas ‚ vt summa eius mi-
+nime colligi queat; praeter casum a: 2. Quo circa iam
+pridem multam collocaui operam , vt tam veritatem istius
+'theorematis demonstrarem , quam viam detegerem , qua
+a* priori ad hanc ipsam frastionem continuam pertingere
+liceret3 quae inuestigatio ‚ quo difficilior mihi est visa , eo
+maiorem vtilitatem ex ea orturam effe ‚ sum arbitratus,
+Quamdiu autem omne studium frustra in hoc negotio ima
+pendi, maxime dolui , methodum a Brounckero vsitatam
+nusquam effe expositam et forsitan omnino periiffe. '
+§. 1 8. Quantum quidem ex Wallifii recensione con·
+stat ‚ Brounckerus ad istam formam deductus est per in·
+'terpolationem huius seriei: {rq- {2-14- ξ-ζξξ -l-,ete cuius
+terminos intermedios ipsam circuli quadraturam praebere
+Wallisius demonstrauerat. Atque adeo indicatur initium hu-
+ius interpolationis a Brounckero institutae. Sibi enim pro-
+pofitum fuiffe perhibetur ‚ singulas fractiones ξ, ξ, ξ etc. in
+binos faetores resoluere , qui omnes inter se continuam pro-
+greffionem constituant. Ita fi flierit A13233CD233EF
+:³⁵53 (ΞΗ-,Εἷς ete. ac quantitates A,B,C,D,E, ete. con-
+tinuam progreffionem constituant ‚ series illa abit in hanc;
+AB·-÷-ABCD÷ABCDEF-÷- etc. quae in hanc for·
+mam redueta sponte interpolatur: erit enim terminus cu·
+iUS' index ἑ est, :A3 et terminus indicem {liabens ζ.- A
+BC3 et ita porro, Ex quo tota haec interpolatio ad
+
+resolutionem singulorum fractionum in binos faetores redu<
+titur.
+
+Tom. Xl. F ᾗ. 190
+
